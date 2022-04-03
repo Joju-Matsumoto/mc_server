@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+require_relative "mc_server/log"
 require_relative "mc_server/version"
 
 module McServer

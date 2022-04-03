@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.authors = ["jj_"]
   spec.email = ["avasoldier2@gmail.com"]
 
-  spec.summary = "TODO: Write a short summary, because RubyGems requires one."
-  spec.description = "TODO: Write a longer description or delete this line."
-  spec.homepage = "TODO: Put your gem's website or public repo URL here."
+  spec.summary = "Minecraft Bedrock Server Log Parser"
+  spec.description = "Simple Log parser for Minecraft Bedrock Server."
+  spec.homepage = ""
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
